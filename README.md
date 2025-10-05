@@ -34,3 +34,5 @@
 ---
 
 ## Cenários de Provisionamento
+## Boas Práticas e Observações
+
