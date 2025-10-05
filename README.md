@@ -13,3 +13,5 @@
 ## Comandos de Criação e Verificação
 
 --- 
+
+## Pré-requisitos e Suporte
