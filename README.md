@@ -21,3 +21,4 @@
 ---
 
 ## Níveis de Desempenho
+## Configuração no StorageClass
