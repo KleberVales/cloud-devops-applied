@@ -23,3 +23,6 @@
 ## Níveis de Desempenho
 ## Configuração no StorageClass
 ## Provisionando um PVC
+## Limitações
+
+---
