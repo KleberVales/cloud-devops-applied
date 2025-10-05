@@ -15,3 +15,4 @@
 --- 
 
 ## Pré-requisitos e Suporte
+## Configuração de StorageClass
