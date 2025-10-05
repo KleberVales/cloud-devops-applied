@@ -26,3 +26,5 @@
 ## Limitações
 
 ---
+
+## Tipos de Sistemas de Arquivos Disponíveis
