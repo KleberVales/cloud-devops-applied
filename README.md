@@ -9,5 +9,6 @@
 ## FlexVolume Plugin (legado)
 ## Políticas e Permissões
 ## Tamanho e Expansão
+## Exemplo de Manifesto PVC
 
 --- 
