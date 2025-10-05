@@ -28,3 +28,4 @@
 ---
 
 ## Tipos de Sistemas de Arquivos Disponíveis
+## Como especificar o tipo de sistema de arquivos
