@@ -16,3 +16,4 @@
 
 ## Pré-requisitos e Suporte
 ## Configuração de StorageClass
+## Processo de Expansão
